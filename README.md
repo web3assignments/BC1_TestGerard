@@ -7,6 +7,6 @@ Minor: [THUASMinorBlockchain_20192020B_IT]
 <br> 
 Dashboard: [bettercodehub] 
 <br> 
-\> 
+\
 [THUASMinorBlockchain_20192020B_IT]: https://github.com/web3examples/THUASMinorBlockchain_20192020B_IT
 [bettercodehub]: ../bettercodehub
