@@ -9,4 +9,4 @@ Dashboard: [bettercodehub]
 <br> 
 
 [minor]: https://github.com/web3examples/THUASMinorBlockchain_20192020B_IT
-[bettercodehub]: ../bettercodehub
+[bettercodehub]: https://github.com/web3assignments/bettercodehub
