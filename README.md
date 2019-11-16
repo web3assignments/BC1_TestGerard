@@ -8,13 +8,5 @@ Minor: [minor]
 Dashboard: [bettercodehub] 
 <br> 
 [minor]: https://github.com/web3examples/THUASMinorBlockchain_20192020B_IT
-
 [bettercodehub]: ..\bettercodehub
-
-
-[test]
 [minor]
-
-
-[test]: https://github.com/web3examples/THUASMinorBlockchain_20192020B_IT
-[minor]: https://github.com/web3examples/THUASMinorBlockchain_20192020B_IT
