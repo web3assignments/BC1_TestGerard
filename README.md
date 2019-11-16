@@ -1,0 +1,2 @@
+# BC1_TestGerard
+THUASMinorBlockchain_20192020B_IT repository for TestGerard
